@@ -83,11 +83,11 @@ Add the wdbc.data file to the specified folder (/content/Data/) or update the fi
 
 # 3. 📈 Feature Distributions:
 
-   ![Feature Distributions](img/symmetry_worst.png)
+   ![Feature Distributions](img/Symmetry_worst.png)
 
 # 4. 🌡️ Correlation Matrix:
 
-   ![Correlation Matrix](img/Correlation Matrix Heatmap.png)
+   ![Correlation Matrix](img/Correlation_Matrix_Heatmap.png)
 
 # 5. 🧩 Confusion Matrices:
 
@@ -101,11 +101,11 @@ Add the wdbc.data file to the specified folder (/content/Data/) or update the fi
 
 # 6. 📉 ROC Curves:
 
-   ![ROC Curves](img/ROC Curve Comparison.png)
+   ![ROC Curves](img/ROC_Curve_Comparison.png)
 
 # 7. 📊 Metric Comparison:
 
-   ![Metric Comparison](img/Model Metrics Comparison.png)
+   ![Metric Comparison](img/Model_Metrics_Comparison.png)
 
 # 💻 Code Walkthrough
 
