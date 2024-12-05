@@ -93,11 +93,11 @@ Add the wdbc.data file to the specified folder (/content/Data/) or update the fi
 
 # Logistic Regression:
 
-![Confusion Matrix - Logistic Regression](img/Confusion%20Matrix%20-%20Logistic%20Regression.png)
+   ![Confusion Matrix - Logistic Regression](img/Confusion%20Matrix%20-%20Logistic%20Regression.png)
 
 # Random Forest:
 
-![Confusion Matrix - Random Forest](img/ConfusionMatrix-RandomForest.png)
+   ![Confusion Matrix - Random Forest](img/ConfusionMatrix-RandomForest.png)
 
 # 6. 📉 ROC Curves:
 
